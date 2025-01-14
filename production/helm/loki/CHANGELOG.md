@@ -15,6 +15,8 @@ Entries should include a reference to the pull request that introduced the chang
 
 ## 6.25.0
 
+## 6.25.0
+
 - [FEATURE] Added support for Overrides Exporter
 
 ## 6.24.0
