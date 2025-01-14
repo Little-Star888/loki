@@ -13,6 +13,11 @@ Entries should include a reference to the pull request that introduced the chang
 
 [//]: # (<AUTOMATED_UPDATES_LOCATOR> : do not remove this line. This locator is used by the CI pipeline to automatically create a changelog entry for each new Loki release. Add other chart versions and respective changelog entries bellow this line.)
 
+## 6.25.0-weekly.237
+
+- [CHANGE] Changed version of Grafana Loki to k237-efd3ec3
+- [CHANGE] Changed version of Grafana Enterprise Logs to weekly-k237-8b5eac9
+
 ## 6.25.0
 
 - [FEATURE] Added support for Overrides Exporter
